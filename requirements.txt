@@ -1,0 +1,7 @@
+matplotlib==<latest-compatible-version>  # For plotting
+seaborn==<latest-compatible-version>     # For enhanced visualisations
+pandas==<latest-compatible-version>      # For data manipulation
+numpy==<latest-compatible-version>       # For numerical computations
+textblob==<latest-compatible-version>    # For sentiment analysis
+nltk==<latest-compatible-version>        # For TextBlob's VADER sentiment analysis
+openpyxl==<latest-compatible-version>    # For reading .xlsx files in pandas
